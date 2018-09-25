@@ -1,0 +1,28 @@
+_repo: The-Indians-of-the-Pike-s-Peak-Region-Including-an-Account-of-the-Battle-of-Sand-Creek-and-of__57252
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Howbert, Irving
+    birthdate: 1846
+    deathdate: 1934
+    gutenberg_agent_id: '49275'
+    url: http://www.gutenberg.org/2009/agents/49275
+    wikipedia: https://en.wikipedia.org/wiki/Irving_Howbert
+description: ''
+gutenberg_issued: '2018-06-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57252'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians of North America -- Colorado'
+- !lcsh 'Sand Creek Massacre, Colo., 1864'
+- GITenberg
+title: 'The Indians of the Pike''s Peak Region
+
+  Including an Account of the Battle of Sand Creek, and of Occurrences in El Paso
+  County, Colorado, during the War with the Cheyennes and Arapahoes, in 1864 and 1868'
+url: http://www.gutenberg.org/ebooks/57252
